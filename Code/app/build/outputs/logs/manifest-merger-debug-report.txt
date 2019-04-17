@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:14:5-47:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\sidha\.android\build-cache\72251070889b62add4ee51870a54715b37363bcd\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\sidha\.android\build-cache\b150423df63a55fb7eb98903e1ccc80eef72a98e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\sidha\.android\build-cache\7c6d3207a3f9c7d619044ccfc7c263b238cb6652\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\sidha\.android\build-cache\6d3a45d9638cb29f689ee1741f07aa6297b69024\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\sidha\.android\build-cache\4e46dadfe47d69254a33d04b56969b64da5f748b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\sidha\.android\build-cache\49ed368376b4a9ac7969f9885681fa28a55abee9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\sidha\.android\build-cache\3af8125530df233c1d073a65aec56b4abbb04721\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\sidha\.android\build-cache\b3c29611dfd2e490a10ae67576b3030c985c9a42\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\sidha\.android\build-cache\6d060fdabe2c307d6816ed2f0e79596af4d1571f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\sidha\.android\build-cache\67055c1bfaa51c507e68fb7283b80e921249aa8d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\sidha\.android\build-cache\5d17cfcb2399405c27c9a81266e52c5a1ba76563\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\sidha\.android\build-cache\b7eeb7e4e8c18a693ec6c26d4e6494279cc8189d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\sidha\.android\build-cache\7d099d4b1a9fd2aff0835983fa887d34c868bb4e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sidha\.android\build-cache\7f3317afc5b03423271245c11d89f36727695ec9\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:19:9-37
+	android:supportsRtl
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:20:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:17:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:16:9-42
+	android:allowBackup
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:18:9-38
+	android:theme
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:21:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:22:9-24:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\sidha\.android\build-cache\7c6d3207a3f9c7d619044ccfc7c263b238cb6652\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:24:13-66
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:23:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:25:9-27:35
+	android:value
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:27:13-32
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:26:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:31:13-41
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:30:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.Result
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:39:13-58
+	android:parentActivityName
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:40:13-35
+intent-filter#android.intent.action.VIEW+android.intent.category.INFO
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.INFO
+ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:44:17-73
+	android:name
+		ADDED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml:44:27-70
+uses-sdk
+INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\sidha\.android\build-cache\72251070889b62add4ee51870a54715b37363bcd\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\sidha\.android\build-cache\b150423df63a55fb7eb98903e1ccc80eef72a98e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\sidha\.android\build-cache\7c6d3207a3f9c7d619044ccfc7c263b238cb6652\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.0] C:\Users\sidha\.android\build-cache\6d3a45d9638cb29f689ee1741f07aa6297b69024\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\sidha\.android\build-cache\4e46dadfe47d69254a33d04b56969b64da5f748b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\sidha\.android\build-cache\49ed368376b4a9ac7969f9885681fa28a55abee9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\sidha\.android\build-cache\3af8125530df233c1d073a65aec56b4abbb04721\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\sidha\.android\build-cache\b3c29611dfd2e490a10ae67576b3030c985c9a42\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\sidha\.android\build-cache\6d060fdabe2c307d6816ed2f0e79596af4d1571f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\sidha\.android\build-cache\67055c1bfaa51c507e68fb7283b80e921249aa8d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\sidha\.android\build-cache\5d17cfcb2399405c27c9a81266e52c5a1ba76563\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\sidha\.android\build-cache\855cf7196ccb6574e54bd3572f11bcccf32bef84\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\sidha\.android\build-cache\b7eeb7e4e8c18a693ec6c26d4e6494279cc8189d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\sidha\.android\build-cache\7d099d4b1a9fd2aff0835983fa887d34c868bb4e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sidha\.android\build-cache\7f3317afc5b03423271245c11d89f36727695ec9\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\sidha\.android\build-cache\4e46dadfe47d69254a33d04b56969b64da5f748b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\AndroidManifest.xml:20:19-85
