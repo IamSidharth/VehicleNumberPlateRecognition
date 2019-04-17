@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_71a9b8f79b3360a4b3f2d39a354916b1b9bc01fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\5d17cfcb2399405c27c9a81266e52c5a1ba76563\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a22520f84eeefb6b2523ca4567ff7f9b75580319\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\5d17cfcb2399405c27c9a81266e52c5a1ba76563\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_e3e7d6eaa53c0bbe4dce98e8f624bcbdb6d7ad3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\7f3317afc5b03423271245c11d89f36727695ec9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c0691ab4c6d0a07f34090c454a4336fde5f7113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f352efdfc56b698b432f1877c4e24631a1a406f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\3af8125530df233c1d073a65aec56b4abbb04721\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_a489d305fbc74b36cba8434dc390d7653109591f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\b7eeb7e4e8c18a693ec6c26d4e6494279cc8189d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_651312f76dd6b75324df16d4ad28a53f1824fa4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\67055c1bfaa51c507e68fb7283b80e921249aa8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0b87bb313906894954dad97e8b02a3cac80aa8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\855cf7196ccb6574e54bd3572f11bcccf32bef84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bab8dc8a53288d6d960187a837a14c511c1a148e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\b7eeb7e4e8c18a693ec6c26d4e6494279cc8189d\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7b59ba500ce6c2bc0ed39301db4a0d86bc35c48a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\6d060fdabe2c307d6816ed2f0e79596af4d1571f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_ebeb7ef38ec3d77976f6e45242717d4868757d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\7c6d3207a3f9c7d619044ccfc7c263b238cb6652\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_2d3e430cdde931c97b8e35d6fd255b9241829c02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\7d099d4b1a9fd2aff0835983fa887d34c868bb4e\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d218850a4147d8240659fafdc8ae17d1710f5c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\6d3a45d9638cb29f689ee1741f07aa6297b69024\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_e8369a17bc24af20ed2661de9d4bd709fc913ce6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\b3c29611dfd2e490a10ae67576b3030c985c9a42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_613c3bd0abb208de057f23d6232aa0ee6ed3fc3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\4e46dadfe47d69254a33d04b56969b64da5f748b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93b4647a567d01012fddd66f7d950eb2b98b9799\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\6d060fdabe2c307d6816ed2f0e79596af4d1571f\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2400a5c91bf2b0f01378d11690f324f869ba488b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\b150423df63a55fb7eb98903e1ccc80eef72a98e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_29b7d423620691b446ea6eaa945442d2a276c0d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\67055c1bfaa51c507e68fb7283b80e921249aa8d\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b095f7f1e8a252890ba0665c2424d7a7b1d9bc87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_2726f45485883c7ce429ba3ffd8e1771c39eea35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\49ed368376b4a9ac7969f9885681fa28a55abee9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad72cce1b0cc48e37c841e3dd63744557f00bf8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\jsoup-1.11.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92361cd474050588ac4d9b982613e87e32cd76">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\jsoup-1.11.3_55254cdf5fba3e998ba59f87ad95db87dd9bca4e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7077aa0978f7edc6538637ecc2423f694be7b7c">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3444e3a91d925aa64d075b6c183bc625dc75bc72\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\7d099d4b1a9fd2aff0835983fa887d34c868bb4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_1b543af0e6154798850fd1195f28daeb478b52d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\72251070889b62add4ee51870a54715b37363bcd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e8299f4179cfa5f0167826b0deded7a9e7a0496\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\15f106c9c393d7d123c4ce94e8e479456ac2142e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_f352efdfc56b698b432f1877c4e24631a1a406f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\5d17cfcb2399405c27c9a81266e52c5a1ba76563\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3e7d6eaa53c0bbe4dce98e8f624bcbdb6d7ad3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\7f3317afc5b03423271245c11d89f36727695ec9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_0c0691ab4c6d0a07f34090c454a4336fde5f7113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\4e46dadfe47d69254a33d04b56969b64da5f748b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_93b4647a567d01012fddd66f7d950eb2b98b9799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_71a9b8f79b3360a4b3f2d39a354916b1b9bc01fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\7d099d4b1a9fd2aff0835983fa887d34c868bb4e\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_d218850a4147d8240659fafdc8ae17d1710f5c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\67055c1bfaa51c507e68fb7283b80e921249aa8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_c0b87bb313906894954dad97e8b02a3cac80aa8a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\3af8125530df233c1d073a65aec56b4abbb04721\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a489d305fbc74b36cba8434dc390d7653109591f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\855cf7196ccb6574e54bd3572f11bcccf32bef84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_bab8dc8a53288d6d960187a837a14c511c1a148e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\5d17cfcb2399405c27c9a81266e52c5a1ba76563\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a22520f84eeefb6b2523ca4567ff7f9b75580319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\b7eeb7e4e8c18a693ec6c26d4e6494279cc8189d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_651312f76dd6b75324df16d4ad28a53f1824fa4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\7c6d3207a3f9c7d619044ccfc7c263b238cb6652\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d3e430cdde931c97b8e35d6fd255b9241829c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\b3c29611dfd2e490a10ae67576b3030c985c9a42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_613c3bd0abb208de057f23d6232aa0ee6ed3fc3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\6d3a45d9638cb29f689ee1741f07aa6297b69024\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8369a17bc24af20ed2661de9d4bd709fc913ce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\6d060fdabe2c307d6816ed2f0e79596af4d1571f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebeb7ef38ec3d77976f6e45242717d4868757d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\b7eeb7e4e8c18a693ec6c26d4e6494279cc8189d\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7b59ba500ce6c2bc0ed39301db4a0d86bc35c48a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_2726f45485883c7ce429ba3ffd8e1771c39eea35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\67055c1bfaa51c507e68fb7283b80e921249aa8d\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b095f7f1e8a252890ba0665c2424d7a7b1d9bc87\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\6d060fdabe2c307d6816ed2f0e79596af4d1571f\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2400a5c91bf2b0f01378d11690f324f869ba488b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\49ed368376b4a9ac7969f9885681fa28a55abee9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_ad72cce1b0cc48e37c841e3dd63744557f00bf8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\jsoup-1.11.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92361cd474050588ac4d9b982613e87e32cd76">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.11.3_55254cdf5fba3e998ba59f87ad95db87dd9bca4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\7d099d4b1a9fd2aff0835983fa887d34c868bb4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b543af0e6154798850fd1195f28daeb478b52d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cc03029e72f537f2502efa7ace4d3d381bf9a1b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sidha\.android\build-cache\72251070889b62add4ee51870a54715b37363bcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\pre-dexed\debug\classes_8e8299f4179cfa5f0167826b0deded7a9e7a0496.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidha\.android\build-cache\b150423df63a55fb7eb98903e1ccc80eef72a98e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\sidha\Desktop\MAD LAB project\number-plate-recognition-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29b7d423620691b446ea6eaa945442d2a276c0d7\classes.dex" />
+    </item>
+
+</items>
